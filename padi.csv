@@ -1,0 +1,694 @@
+tahun,kode_provinsi,nama_provinsi,produksi
+1993,1100,Prov. Nanggroe Aceh Darussalam,1299699
+1993,1200,Prov. Sumatera Utara,2918152
+1993,1300,Prov. Sumatera Barat,1806424
+1993,1400,Prov. Riau,436297
+1993,1500,Prov. Jambi,607529
+1993,1600,Prov. Sumatera Selatan,1409559
+1993,1700,Prov. Bengkulu,356709
+1993,1800,Prov. Lampung,1646900
+1993,1900,Prov. Kepulauan Bangka Belitung,0
+1993,2100,Prov. Kepulauan Riau,0
+1993,3100,Prov. DKI Jakarta,28488
+1993,3200,Prov. Jawa Barat,10820862
+1993,3300,Prov. Jawa Tengah,8174897
+1993,3400,Prov. D I Yogyakarta,644642
+1993,3500,Prov. Jawa Timur,8627784
+1993,3600,Prov. Banten,0
+1993,5100,Prov. Bali,837054
+1993,5200,Prov. Nusa Tenggara Barat,1186926
+1993,5300,Prov. Nusa Tenggara Timur,381915
+1993,6100,Prov. Kalimantan Barat,770136
+1993,6200,Prov. Kalimantan Tengah,313729
+1993,6300,Prov. Kalimantan Selatan,1138140
+1993,6400,Prov. Kalimantan Timur,254730
+1993,7100,Prov. Sulawesi Utara,393314
+1993,7200,Prov. Sulawesi Tengah,462505
+1993,7300,Prov. Sulawesi Selatan,3303591
+1993,7400,Prov. Sulawesi Tenggara,220919
+1993,7500,Prov. Gorontalo,0
+1993,7600,Prov. Sulawesi Barat,0
+1993,8100,Prov. Maluku,51330
+1993,8200,Prov. Maluku Utara,0
+1993,9100,Prov. Papua Barat,0
+1993,9400,Prov. Papua,37090
+1994,1100,Prov. Nanggroe Aceh Darussalam,1329536
+1994,1200,Prov. Sumatera Utara,3079960
+1994,1300,Prov. Sumatera Barat,1747543
+1994,1400,Prov. Riau,445361
+1994,1500,Prov. Jambi,564722
+1994,1600,Prov. Sumatera Selatan,1347611
+1994,1700,Prov. Bengkulu,334232
+1994,1800,Prov. Lampung,1615751
+1994,1900,Prov. Kepulauan Bangka Belitung,0
+1994,2100,Prov. Kepulauan Riau,0
+1994,3100,Prov. DKI Jakarta,22965
+1994,3200,Prov. Jawa Barat,9860375
+1994,3300,Prov. Jawa Tengah,7722611
+1994,3400,Prov. D I Yogyakarta,643266
+1994,3500,Prov. Jawa Timur,8296348
+1994,3600,Prov. Banten,0
+1994,5100,Prov. Bali,801495
+1994,5200,Prov. Nusa Tenggara Barat,1187513
+1994,5300,Prov. Nusa Tenggara Timur,410757
+1994,6100,Prov. Kalimantan Barat,766542
+1994,6200,Prov. Kalimantan Tengah,362497
+1994,6300,Prov. Kalimantan Selatan,1123082
+1994,6400,Prov. Kalimantan Timur,308154
+1994,7100,Prov. Sulawesi Utara,391186
+1994,7200,Prov. Sulawesi Tengah,449185
+1994,7300,Prov. Sulawesi Selatan,3467984
+1994,7400,Prov. Sulawesi Tenggara,246936
+1994,7500,Prov. Gorontalo,0
+1994,7600,Prov. Sulawesi Barat,0
+1994,8100,Prov. Maluku,29904
+1994,8200,Prov. Maluku Utara,0
+1994,9100,Prov. Papua Barat,0
+1994,9400,Prov. Papua,42864
+1995,1100,Prov. Nanggroe Aceh Darussalam,1368074
+1995,1200,Prov. Sumatera Utara,3134533
+1995,1300,Prov. Sumatera Barat,1829192
+1995,1400,Prov. Riau,458756
+1995,1500,Prov. Jambi,593502
+1995,1600,Prov. Sumatera Selatan,1557944
+1995,1700,Prov. Bengkulu,377337
+1995,1800,Prov. Lampung,1943709
+1995,1900,Prov. Kepulauan Bangka Belitung,0
+1995,2100,Prov. Kepulauan Riau,0
+1995,3100,Prov. DKI Jakarta,19309
+1995,3200,Prov. Jawa Barat,10722717
+1995,3300,Prov. Jawa Tengah,8198084
+1995,3400,Prov. D I Yogyakarta,642120
+1995,3500,Prov. Jawa Timur,8572668
+1995,3600,Prov. Banten,0
+1995,5100,Prov. Bali,831172
+1995,5200,Prov. Nusa Tenggara Barat,1235882
+1995,5300,Prov. Nusa Tenggara Timur,419929
+1995,6100,Prov. Kalimantan Barat,827669
+1995,6200,Prov. Kalimantan Tengah,378129
+1995,6300,Prov. Kalimantan Selatan,1189062
+1995,6400,Prov. Kalimantan Timur,362193
+1995,7100,Prov. Sulawesi Utara,397113
+1995,7200,Prov. Sulawesi Tengah,539648
+1995,7300,Prov. Sulawesi Selatan,3727081
+1995,7400,Prov. Sulawesi Tenggara,287355
+1995,7500,Prov. Gorontalo,0
+1995,7600,Prov. Sulawesi Barat,0
+1995,8100,Prov. Maluku,35151
+1995,8200,Prov. Maluku Utara,0
+1995,9100,Prov. Papua Barat,0
+1995,9400,Prov. Papua,49115
+1996,1100,Prov. Nanggroe Aceh Darussalam,1419128
+1996,1200,Prov. Sumatera Utara,3136760
+1996,1300,Prov. Sumatera Barat,1971180
+1996,1400,Prov. Riau,461905
+1996,1500,Prov. Jambi,657650
+1996,1600,Prov. Sumatera Selatan,1666591
+1996,1700,Prov. Bengkulu,396977
+1996,1800,Prov. Lampung,1971740
+1996,1900,Prov. Kepulauan Bangka Belitung,0
+1996,2100,Prov. Kepulauan Riau,0
+1996,3100,Prov. DKI Jakarta,17347
+1996,3200,Prov. Jawa Barat,10747659
+1996,3300,Prov. Jawa Tengah,8359105
+1996,3400,Prov. D I Yogyakarta,661179
+1996,3500,Prov. Jawa Timur,8628766
+1996,3600,Prov. Banten,0
+1996,5100,Prov. Bali,840564
+1996,5200,Prov. Nusa Tenggara Barat,1291140
+1996,5300,Prov. Nusa Tenggara Timur,465534
+1996,6100,Prov. Kalimantan Barat,838563
+1996,6200,Prov. Kalimantan Tengah,395896
+1996,6300,Prov. Kalimantan Selatan,1214038
+1996,6400,Prov. Kalimantan Timur,408969
+1996,7100,Prov. Sulawesi Utara,475018
+1996,7200,Prov. Sulawesi Tengah,583879
+1996,7300,Prov. Sulawesi Selatan,4052228
+1996,7400,Prov. Sulawesi Tenggara,305940
+1996,7500,Prov. Gorontalo,0
+1996,7600,Prov. Sulawesi Barat,0
+1996,8100,Prov. Maluku,31240
+1996,8200,Prov. Maluku Utara,0
+1996,9100,Prov. Papua Barat,0
+1996,9400,Prov. Papua,49903
+1997,1100,Prov. Nanggroe Aceh Darussalam,1382905
+1997,1200,Prov. Sumatera Utara,3212208
+1997,1300,Prov. Sumatera Barat,1787719
+1997,1400,Prov. Riau,416135
+1997,1500,Prov. Jambi,572269
+1997,1600,Prov. Sumatera Selatan,1577398
+1997,1700,Prov. Bengkulu,382123
+1997,1800,Prov. Lampung,1753656
+1997,1900,Prov. Kepulauan Bangka Belitung,0
+1997,2100,Prov. Kepulauan Riau,0
+1997,3100,Prov. DKI Jakarta,16491
+1997,3200,Prov. Jawa Barat,10352650
+1997,3300,Prov. Jawa Tengah,8328756
+1997,3400,Prov. D I Yogyakarta,647198
+1997,3500,Prov. Jawa Timur,8533839
+1997,3600,Prov. Banten,0
+1997,5100,Prov. Bali,791196
+1997,5200,Prov. Nusa Tenggara Barat,1294483
+1997,5300,Prov. Nusa Tenggara Timur,463154
+1997,6100,Prov. Kalimantan Barat,829106
+1997,6200,Prov. Kalimantan Tengah,379548
+1997,6300,Prov. Kalimantan Selatan,1203184
+1997,6400,Prov. Kalimantan Timur,411745
+1997,7100,Prov. Sulawesi Utara,393593
+1997,7200,Prov. Sulawesi Tengah,523682
+1997,7300,Prov. Sulawesi Selatan,3769450
+1997,7400,Prov. Sulawesi Tenggara,260334
+1997,7500,Prov. Gorontalo,0
+1997,7600,Prov. Sulawesi Barat,0
+1997,8100,Prov. Maluku,17878
+1997,8200,Prov. Maluku Utara,0
+1997,9100,Prov. Papua Barat,0
+1997,9400,Prov. Papua,38386
+1998,1100,Prov. Nanggroe Aceh Darussalam,1486909
+1998,1200,Prov. Sumatera Utara,3321049
+1998,1300,Prov. Sumatera Barat,1807622
+1998,1400,Prov. Riau,370124
+1998,1500,Prov. Jambi,550277
+1998,1600,Prov. Sumatera Selatan,1931505
+1998,1700,Prov. Bengkulu,375533
+1998,1800,Prov. Lampung,1975700
+1998,1900,Prov. Kepulauan Bangka Belitung,0
+1998,2100,Prov. Kepulauan Riau,0
+1998,3100,Prov. DKI Jakarta,14488
+1998,3200,Prov. Jawa Barat,9795638
+1998,3300,Prov. Jawa Tengah,8594043
+1998,3400,Prov. D I Yogyakarta,621605
+1998,3500,Prov. Jawa Timur,8691519
+1998,3600,Prov. Banten,0
+1998,5100,Prov. Bali,825934
+1998,5200,Prov. Nusa Tenggara Barat,1344717
+1998,5300,Prov. Nusa Tenggara Timur,432219
+1998,6100,Prov. Kalimantan Barat,827499
+1998,6200,Prov. Kalimantan Tengah,277141
+1998,6300,Prov. Kalimantan Selatan,1052481
+1998,6400,Prov. Kalimantan Timur,170256
+1998,7100,Prov. Sulawesi Utara,302890
+1998,7200,Prov. Sulawesi Tengah,494401
+1998,7300,Prov. Sulawesi Selatan,3560834
+1998,7400,Prov. Sulawesi Tenggara,276913
+1998,7500,Prov. Gorontalo,0
+1998,7600,Prov. Sulawesi Barat,0
+1998,8100,Prov. Maluku,39483
+1998,8200,Prov. Maluku Utara,0
+1998,9100,Prov. Papua Barat,0
+1998,9400,Prov. Papua,59064
+1999,1100,Prov. Nanggroe Aceh Darussalam,1478712
+1999,1200,Prov. Sumatera Utara,3451430
+1999,1300,Prov. Sumatera Barat,1897678
+1999,1400,Prov. Riau,461630
+1999,1500,Prov. Jambi,553641
+1999,1600,Prov. Sumatera Selatan,1789961
+1999,1700,Prov. Bengkulu,381577
+1999,1800,Prov. Lampung,1801422
+1999,1900,Prov. Kepulauan Bangka Belitung,0
+1999,2100,Prov. Kepulauan Riau,0
+1999,3100,Prov. DKI Jakarta,15813
+1999,3200,Prov. Jawa Barat,9993014
+1999,3300,Prov. Jawa Tengah,8345854
+1999,3400,Prov. D I Yogyakarta,612393
+1999,3500,Prov. Jawa Timur,8956196
+1999,3600,Prov. Banten,0
+1999,5100,Prov. Bali,836055
+1999,5200,Prov. Nusa Tenggara Barat,1396077
+1999,5300,Prov. Nusa Tenggara Timur,473000
+1999,6100,Prov. Kalimantan Barat,969658
+1999,6200,Prov. Kalimantan Tengah,306567
+1999,6300,Prov. Kalimantan Selatan,1380443
+1999,6400,Prov. Kalimantan Timur,409884
+1999,7100,Prov. Sulawesi Utara,367804
+1999,7200,Prov. Sulawesi Tengah,639739
+1999,7300,Prov. Sulawesi Selatan,3870842
+1999,7400,Prov. Sulawesi Tenggara,346214
+1999,7500,Prov. Gorontalo,0
+1999,7600,Prov. Sulawesi Barat,0
+1999,8100,Prov. Maluku,48857
+1999,8200,Prov. Maluku Utara,0
+1999,9100,Prov. Papua Barat,0
+1999,9400,Prov. Papua,81926
+2000,1100,Prov. Nanggroe Aceh Darussalam,1404580
+2000,1200,Prov. Sumatera Utara,3514253
+2000,1300,Prov. Sumatera Barat,1759059
+2000,1400,Prov. Riau,431351
+2000,1500,Prov. Jambi,536779
+2000,1600,Prov. Sumatera Selatan,1863643
+2000,1700,Prov. Bengkulu,362979
+2000,1800,Prov. Lampung,1946406
+2000,1900,Prov. Kepulauan Bangka Belitung,0
+2000,2100,Prov. Kepulauan Riau,0
+2000,3100,Prov. DKI Jakarta,16275
+2000,3200,Prov. Jawa Barat,10749868
+2000,3300,Prov. Jawa Tengah,8475412
+2000,3400,Prov. D I Yogyakarta,654289
+2000,3500,Prov. Jawa Timur,9224353
+2000,3600,Prov. Banten,0
+2000,5100,Prov. Bali,826838
+2000,5200,Prov. Nusa Tenggara Barat,1488191
+2000,5300,Prov. Nusa Tenggara Timur,461413
+2000,6100,Prov. Kalimantan Barat,903191
+2000,6200,Prov. Kalimantan Tengah,362630
+2000,6300,Prov. Kalimantan Selatan,1332364
+2000,6400,Prov. Kalimantan Timur,401955
+2000,7100,Prov. Sulawesi Utara,514477
+2000,7200,Prov. Sulawesi Tengah,576933
+2000,7300,Prov. Sulawesi Selatan,3658836
+2000,7400,Prov. Sulawesi Tenggara,314955
+2000,7500,Prov. Gorontalo,0
+2000,7600,Prov. Sulawesi Barat,0
+2000,8100,Prov. Maluku,36288
+2000,8200,Prov. Maluku Utara,0
+2000,9100,Prov. Papua Barat,0
+2000,9400,Prov. Papua,81534
+2001,1100,Prov. Nanggroe Aceh Darussalam,1246614
+2001,1200,Prov. Sumatera Utara,3291515
+2001,1300,Prov. Sumatera Barat,1668955
+2001,1400,Prov. Riau,413391
+2001,1500,Prov. Jambi,556564
+2001,1600,Prov. Sumatera Selatan,1723433
+2001,1700,Prov. Bengkulu,376973
+2001,1800,Prov. Lampung,1992726
+2001,1900,Prov. Kepulauan Bangka Belitung,16430
+2001,2100,Prov. Kepulauan Riau,0
+2001,3100,Prov. DKI Jakarta,16886
+2001,3200,Prov. Jawa Barat,9237593
+2001,3300,Prov. Jawa Tengah,8289927
+2001,3400,Prov. D I Yogyakarta,661802
+2001,3500,Prov. Jawa Timur,8672791
+2001,3600,Prov. Banten,1433397
+2001,5100,Prov. Bali,789232
+2001,5200,Prov. Nusa Tenggara Barat,1458616
+2001,5300,Prov. Nusa Tenggara Timur,448001
+2001,6100,Prov. Kalimantan Barat,941630
+2001,6200,Prov. Kalimantan Tengah,360084
+2001,6300,Prov. Kalimantan Selatan,1406070
+2001,6400,Prov. Kalimantan Timur,366708
+2001,7100,Prov. Sulawesi Utara,310802
+2001,7200,Prov. Sulawesi Tengah,520642
+2001,7300,Prov. Sulawesi Selatan,3728736
+2001,7400,Prov. Sulawesi Tenggara,263477
+2001,7500,Prov. Gorontalo,158871
+2001,7600,Prov. Sulawesi Barat,0
+2001,8100,Prov. Maluku,33885
+2001,8200,Prov. Maluku Utara,0
+2001,9100,Prov. Papua Barat,0
+2001,9400,Prov. Papua,75031
+2002,1100,Prov. Nanggroe Aceh Darussalam,1314165
+2002,1200,Prov. Sumatera Utara,3153305
+2002,1300,Prov. Sumatera Barat,1875834
+2002,1400,Prov. Riau,396644
+2002,1500,Prov. Jambi,561007
+2002,1600,Prov. Sumatera Selatan,1899849
+2002,1700,Prov. Bengkulu,379818
+2002,1800,Prov. Lampung,1951109
+2002,1900,Prov. Kepulauan Bangka Belitung,10317
+2002,2100,Prov. Kepulauan Riau,0
+2002,3100,Prov. DKI Jakarta,11303
+2002,3200,Prov. Jawa Barat,9166872
+2002,3300,Prov. Jawa Tengah,8503523
+2002,3400,Prov. D I Yogyakarta,653577
+2002,3500,Prov. Jawa Timur,8803878
+2002,3600,Prov. Banten,1468765
+2002,5100,Prov. Bali,808970
+2002,5200,Prov. Nusa Tenggara Barat,1370171
+2002,5300,Prov. Nusa Tenggara Timur,468011
+2002,6100,Prov. Kalimantan Barat,985489
+2002,6200,Prov. Kalimantan Tengah,395239
+2002,6300,Prov. Kalimantan Selatan,1346007
+2002,6400,Prov. Kalimantan Timur,442633
+2002,7100,Prov. Sulawesi Utara,346079
+2002,7200,Prov. Sulawesi Tengah,746023
+2002,7300,Prov. Sulawesi Selatan,3893915
+2002,7400,Prov. Sulawesi Tenggara,298813
+2002,7500,Prov. Gorontalo,153222
+2002,7600,Prov. Sulawesi Barat,0
+2002,8100,Prov. Maluku,12033
+2002,8200,Prov. Maluku Utara,0
+2002,9100,Prov. Papua Barat,0
+2002,9400,Prov. Papua,73123
+2003,1100,Prov. Nanggroe Aceh Darussalam,1547499
+2003,1200,Prov. Sumatera Utara,3403075
+2003,1300,Prov. Sumatera Barat,1823739
+2003,1400,Prov. Riau,414237
+2003,1500,Prov. Jambi,578346
+2003,1600,Prov. Sumatera Selatan,1977345
+2003,1700,Prov. Bengkulu,413375
+2003,1800,Prov. Lampung,1966293
+2003,1900,Prov. Kepulauan Bangka Belitung,12173
+2003,2100,Prov. Kepulauan Riau,0
+2003,3100,Prov. DKI Jakarta,7558
+2003,3200,Prov. Jawa Barat,8776889
+2003,3300,Prov. Jawa Tengah,8123839
+2003,3400,Prov. D I Yogyakarta,652280
+2003,3500,Prov. Jawa Timur,8914995
+2003,3600,Prov. Banten,1691923
+2003,5100,Prov. Bali,793260
+2003,5200,Prov. Nusa Tenggara Barat,1422440
+2003,5300,Prov. Nusa Tenggara Timur,509419
+2003,6100,Prov. Kalimantan Barat,1027122
+2003,6200,Prov. Kalimantan Tengah,490080
+2003,6300,Prov. Kalimantan Selatan,1410141
+2003,6400,Prov. Kalimantan Timur,430286
+2003,7100,Prov. Sulawesi Utara,369930
+2003,7200,Prov. Sulawesi Tengah,738607
+2003,7300,Prov. Sulawesi Selatan,4003079
+2003,7400,Prov. Sulawesi Tenggara,334307
+2003,7500,Prov. Gorontalo,156158
+2003,7600,Prov. Sulawesi Barat,0
+2003,8100,Prov. Maluku,31189
+2003,8200,Prov. Maluku Utara,60131
+2003,9100,Prov. Papua Barat,0
+2003,9400,Prov. Papua,57889
+2004,1100,Prov. Nanggroe Aceh Darussalam,1552078
+2004,1200,Prov. Sumatera Utara,3418782
+2004,1300,Prov. Sumatera Barat,1875188
+2004,1400,Prov. Riau,454186
+2004,1500,Prov. Jambi,579404
+2004,1600,Prov. Sumatera Selatan,2260794
+2004,1700,Prov. Bengkulu,414741
+2004,1800,Prov. Lampung,2091996
+2004,1900,Prov. Kepulauan Bangka Belitung,18763
+2004,2100,Prov. Kepulauan Riau,0
+2004,3100,Prov. DKI Jakarta,13465
+2004,3200,Prov. Jawa Barat,9602302
+2004,3300,Prov. Jawa Tengah,8512555
+2004,3400,Prov. D I Yogyakarta,692998
+2004,3500,Prov. Jawa Timur,9002025
+2004,3600,Prov. Banten,1812495
+2004,5100,Prov. Bali,788360
+2004,5200,Prov. Nusa Tenggara Barat,1466757
+2004,5300,Prov. Nusa Tenggara Timur,552205
+2004,6100,Prov. Kalimantan Barat,1060652
+2004,6200,Prov. Kalimantan Tengah,590434
+2004,6300,Prov. Kalimantan Selatan,1519432
+2004,6400,Prov. Kalimantan Timur,486167
+2004,7100,Prov. Sulawesi Utara,407358
+2004,7200,Prov. Sulawesi Tengah,725725
+2004,7300,Prov. Sulawesi Selatan,3552835
+2004,7400,Prov. Sulawesi Tenggara,322362
+2004,7500,Prov. Gorontalo,163094
+2004,7600,Prov. Sulawesi Barat,0
+2004,8100,Prov. Maluku,36148
+2004,8200,Prov. Maluku Utara,51800
+2004,9100,Prov. Papua Barat,0
+2004,9400,Prov. Papua,63367
+2005,1100,Prov. Nanggroe Aceh Darussalam,1411650
+2005,1200,Prov. Sumatera Utara,3447394
+2005,1300,Prov. Sumatera Barat,1907390
+2005,1400,Prov. Riau,424095
+2005,1500,Prov. Jambi,579635
+2005,1600,Prov. Sumatera Selatan,2320110
+2005,1700,Prov. Bengkulu,441276
+2005,1800,Prov. Lampung,2124144
+2005,1900,Prov. Kepulauan Bangka Belitung,19027
+2005,2100,Prov. Kepulauan Riau,312
+2005,3100,Prov. DKI Jakarta,13335
+2005,3200,Prov. Jawa Barat,9787217
+2005,3300,Prov. Jawa Tengah,8424096
+2005,3400,Prov. D I Yogyakarta,670703
+2005,3500,Prov. Jawa Timur,9007265
+2005,3600,Prov. Banten,1861776
+2005,5100,Prov. Bali,786961
+2005,5200,Prov. Nusa Tenggara Barat,1367869
+2005,5300,Prov. Nusa Tenggara Timur,461007
+2005,6100,Prov. Kalimantan Barat,1023684
+2005,6200,Prov. Kalimantan Tengah,492250
+2005,6300,Prov. Kalimantan Selatan,1598835
+2005,6400,Prov. Kalimantan Timur,499558
+2005,7100,Prov. Sulawesi Utara,432624
+2005,7200,Prov. Sulawesi Tengah,716906
+2005,7300,Prov. Sulawesi Selatan,3390397
+2005,7400,Prov. Sulawesi Tenggara,339847
+2005,7500,Prov. Gorontalo,167152
+2005,7600,Prov. Sulawesi Barat,253886
+2005,8100,Prov. Maluku,37239
+2005,8200,Prov. Maluku Utara,57945
+2005,9100,Prov. Papua Barat,24702
+2005,9400,Prov. Papua,60810
+2006,1100,Prov. Nanggroe Aceh Darussalam,1350748
+2006,1200,Prov. Sumatera Utara,3007636
+2006,1300,Prov. Sumatera Barat,1889489
+2006,1400,Prov. Riau,42938
+2006,1500,Prov. Jambi,544597
+2006,1600,Prov. Sumatera Selatan,2456251
+2006,1700,Prov. Bengkulu,378377
+2006,1800,Prov. Lampung,2129914
+2006,1900,Prov. Kepulauan Bangka Belitung,16506
+2006,2100,Prov. Kepulauan Riau,332
+2006,3100,Prov. DKI Jakarta,6197
+2006,3200,Prov. Jawa Barat,9418572
+2006,3300,Prov. Jawa Tengah,8729291
+2006,3400,Prov. D I Yogyakarta,708163
+2006,3500,Prov. Jawa Timur,9346947
+2006,3600,Prov. Banten,1751468
+2006,5100,Prov. Bali,840891
+2006,5200,Prov. Nusa Tenggara Barat,1552627
+2006,5300,Prov. Nusa Tenggara Timur,511911
+2006,6100,Prov. Kalimantan Barat,1107661
+2006,6200,Prov. Kalimantan Tengah,491712
+2006,6300,Prov. Kalimantan Selatan,1636840
+2006,6400,Prov. Kalimantan Timur,541171
+2006,7100,Prov. Sulawesi Utara,454902
+2006,7200,Prov. Sulawesi Tengah,739777
+2006,7300,Prov. Sulawesi Selatan,3365509
+2006,7400,Prov. Sulawesi Tenggara,349429
+2006,7500,Prov. Gorontalo,192583
+2006,7600,Prov. Sulawesi Barat,301616
+2006,8100,Prov. Maluku,49833
+2006,8200,Prov. Maluku Utara,59215
+2006,9100,Prov. Papua Barat,27073
+2006,9400,Prov. Papua,68319
+2007,1100,Prov. Nanggroe Aceh Darussalam,1533369
+2007,1200,Prov. Sumatera Utara,3265834
+2007,1300,Prov. Sumatera Barat,1938120
+2007,1400,Prov. Riau,490087
+2007,1500,Prov. Jambi,58663
+2007,1600,Prov. Sumatera Selatan,2753044
+2007,1700,Prov. Bengkulu,470469
+2007,1800,Prov. Lampung,2308404
+2007,1900,Prov. Kepulauan Bangka Belitung,2439
+2007,2100,Prov. Kepulauan Riau,343
+2007,3100,Prov. DKI Jakarta,8002
+2007,3200,Prov. Jawa Barat,9914019
+2007,3300,Prov. Jawa Tengah,8616855
+2007,3400,Prov. D I Yogyakarta,709294
+2007,3500,Prov. Jawa Timur,9402029
+2007,3600,Prov. Banten,1816140
+2007,5100,Prov. Bali,839775
+2007,5200,Prov. Nusa Tenggara Barat,1526347
+2007,5300,Prov. Nusa Tenggara Timur,505628
+2007,6100,Prov. Kalimantan Barat,1225259
+2007,6200,Prov. Kalimantan Tengah,562473
+2007,6300,Prov. Kalimantan Selatan,1953868
+2007,6400,Prov. Kalimantan Timur,567501
+2007,7100,Prov. Sulawesi Utara,49495
+2007,7200,Prov. Sulawesi Tengah,857508
+2007,7300,Prov. Sulawesi Selatan,3635139
+2007,7400,Prov. Sulawesi Tenggara,423316
+2007,7500,Prov. Gorontalo,200421
+2007,7600,Prov. Sulawesi Barat,312676
+2007,8100,Prov. Maluku,57132
+2007,8200,Prov. Maluku Utara,48531
+2007,9100,Prov. Papua Barat,28204
+2007,9400,Prov. Papua,81678
+2008,1100,Prov. Nanggroe Aceh Darussalam,1402287
+2008,1200,Prov. Sumatera Utara,3340794
+2008,1300,Prov. Sumatera Barat,1965634
+2008,1400,Prov. Riau,494260
+2008,1500,Prov. Jambi,581704
+2008,1600,Prov. Sumatera Selatan,2971286
+2008,1700,Prov. Bengkulu,484900
+2008,1800,Prov. Lampung,2341075
+2008,1900,Prov. Kepulauan Bangka Belitung,15079
+2008,2100,Prov. Kepulauan Riau,404
+2008,3100,Prov. DKI Jakarta,8352
+2008,3200,Prov. Jawa Barat,10111069
+2008,3300,Prov. Jawa Tengah,9136405
+2008,3400,Prov. D I Yogyakarta,798232
+2008,3500,Prov. Jawa Timur,10474773
+2008,3600,Prov. Banten,1818166
+2008,5100,Prov. Bali,840465
+2008,5200,Prov. Nusa Tenggara Barat,1750677
+2008,5300,Prov. Nusa Tenggara Timur,577895
+2008,6100,Prov. Kalimantan Barat,1321443
+2008,6200,Prov. Kalimantan Tengah,522732
+2008,6300,Prov. Kalimantan Selatan,1954284
+2008,6400,Prov. Kalimantan Timur,586031
+2008,7100,Prov. Sulawesi Utara,520193
+2008,7200,Prov. Sulawesi Tengah,985418
+2008,7300,Prov. Sulawesi Selatan,4083356
+2008,7400,Prov. Sulawesi Tenggara,405256
+2008,7500,Prov. Gorontalo,237873
+2008,7600,Prov. Sulawesi Barat,343221
+2008,8100,Prov. Maluku,75826
+2008,8200,Prov. Maluku Utara,51599
+2008,9100,Prov. Papua Barat,39537
+2008,9400,Prov. Papua,85699
+2009,1100,Prov. Nanggroe Aceh Darussalam,1556858
+2009,1200,Prov. Sumatera Utara,3527899
+2009,1300,Prov. Sumatera Barat,2105790
+2009,1400,Prov. Riau,531429
+2009,1500,Prov. Jambi,644947
+2009,1600,Prov. Sumatera Selatan,3125236
+2009,1700,Prov. Bengkulu,510160
+2009,1800,Prov. Lampung,2673844
+2009,1900,Prov. Kepulauan Bangka Belitung,19864
+2009,2100,Prov. Kepulauan Riau,430
+2009,3100,Prov. DKI Jakarta,11013
+2009,3200,Prov. Jawa Barat,11322681
+2009,3300,Prov. Jawa Tengah,9600415
+2009,3400,Prov. D I Yogyakarta,837930
+2009,3500,Prov. Jawa Timur,11259085
+2009,3600,Prov. Banten,1849007
+2009,5100,Prov. Bali,878764
+2009,5200,Prov. Nusa Tenggara Barat,1870775
+2009,5300,Prov. Nusa Tenggara Timur,607359
+2009,6100,Prov. Kalimantan Barat,1300798
+2009,6200,Prov. Kalimantan Tengah,578761
+2009,6300,Prov. Kalimantan Selatan,1956993
+2009,6400,Prov. Kalimantan Timur,555560
+2009,7100,Prov. Sulawesi Utara,549087
+2009,7200,Prov. Sulawesi Tengah,953396
+2009,7300,Prov. Sulawesi Selatan,4324178
+2009,7400,Prov. Sulawesi Tenggara,407367
+2009,7500,Prov. Gorontalo,256934
+2009,7600,Prov. Sulawesi Barat,310706
+2009,8100,Prov. Maluku,89875
+2009,8200,Prov. Maluku Utara,46253
+2009,9100,Prov. Papua Barat,36985
+2009,9400,Prov. Papua,98511
+2010,1100,Prov. Nanggroe Aceh Darussalam,1582393
+2010,1200,Prov. Sumatera Utara,3582302
+2010,1300,Prov. Sumatera Barat,2211248
+2010,1400,Prov. Riau,574864
+2010,1500,Prov. Jambi,628828
+2010,1600,Prov. Sumatera Selatan,3272451
+2010,1700,Prov. Bengkulu,516869
+2010,1800,Prov. Lampung,2807676
+2010,1900,Prov. Kepulauan Bangka Belitung,22259
+2010,2100,Prov. Kepulauan Riau,1246
+2010,3100,Prov. DKI Jakarta,11164
+2010,3200,Prov. Jawa Barat,11737070
+2010,3300,Prov. Jawa Tengah,10110830
+2010,3400,Prov. D I Yogyakarta,823887
+2010,3500,Prov. Jawa Timur,11643773
+2010,3600,Prov. Banten,2048047
+2010,5100,Prov. Bali,869161
+2010,5200,Prov. Nusa Tenggara Barat,1774499
+2010,5300,Prov. Nusa Tenggara Timur,555493
+2010,6100,Prov. Kalimantan Barat,1343888
+2010,6200,Prov. Kalimantan Tengah,650416
+2010,6300,Prov. Kalimantan Selatan,1842089
+2010,6400,Prov. Kalimantan Timur,588879
+2010,7100,Prov. Sulawesi Utara,584030
+2010,7200,Prov. Sulawesi Tengah,957108
+2010,7300,Prov. Sulawesi Selatan,4382443
+2010,7400,Prov. Sulawesi Tenggara,454644
+2010,7500,Prov. Gorontalo,253563
+2010,7600,Prov. Sulawesi Barat,362900
+2010,8100,Prov. Maluku,83109
+2010,8200,Prov. Maluku Utara,55401
+2010,9100,Prov. Papua Barat,34254
+2010,9400,Prov. Papua,102610
+2011,1100,Prov. Nanggroe Aceh Darussalam,1772962
+2011,1200,Prov. Sumatera Utara,3607403
+2011,1300,Prov. Sumatera Barat,2279602
+2011,1400,Prov. Riau,535788
+2011,1500,Prov. Jambi,646641
+2011,1600,Prov. Sumatera Selatan,3384670
+2011,1700,Prov. Bengkulu,502552
+2011,1800,Prov. Lampung,2940795
+2011,1900,Prov. Kepulauan Bangka Belitung,15211
+2011,2100,Prov. Kepulauan Riau,1223
+2011,3100,Prov. DKI Jakarta,9516
+2011,3200,Prov. Jawa Barat,11633891
+2011,3300,Prov. Jawa Tengah,9391959
+2011,3400,Prov. D I Yogyakarta,842934
+2011,3500,Prov. Jawa Timur,10576543
+2011,3600,Prov. Banten,1949714
+2011,5100,Prov. Bali,858316
+2011,5200,Prov. Nusa Tenggara Barat,2067137
+2011,5300,Prov. Nusa Tenggara Timur,591371
+2011,6100,Prov. Kalimantan Barat,1372988
+2011,6200,Prov. Kalimantan Tengah,610236
+2011,6300,Prov. Kalimantan Selatan,2038309
+2011,6400,Prov. Kalimantan Timur,552616
+2011,7100,Prov. Sulawesi Utara,596223
+2011,7200,Prov. Sulawesi Tengah,1041789
+2011,7300,Prov. Sulawesi Selatan,4511705
+2011,7400,Prov. Sulawesi Tenggara,491567
+2011,7500,Prov. Gorontalo,273921
+2011,7600,Prov. Sulawesi Barat,365683
+2011,8100,Prov. Maluku,87468
+2011,8200,Prov. Maluku Utara,61430
+2011,9100,Prov. Papua Barat,29304
+2011,9400,Prov. Papua,115437
+2012,1100,Prov. Nanggroe Aceh Darussalam,1788738
+2012,1200,Prov. Sumatera Utara,3715514
+2012,1300,Prov. Sumatera Barat,2368390
+2012,1400,Prov. Riau,512152
+2012,1500,Prov. Jambi,625164
+2012,1600,Prov. Sumatera Selatan,3295247
+2012,1700,Prov. Bengkulu,581910
+2012,1800,Prov. Lampung,3101455
+2012,1900,Prov. Kepulauan Bangka Belitung,22395
+2012,2100,Prov. Kepulauan Riau,1323
+2012,3100,Prov. DKI Jakarta,11044
+2012,3200,Prov. Jawa Barat,11271861
+2012,3300,Prov. Jawa Tengah,10232934
+2012,3400,Prov. D I Yogyakarta,946224
+2012,3500,Prov. Jawa Timur,12198707
+2012,3600,Prov. Banten,1865893
+2012,5100,Prov. Bali,865553
+2012,5200,Prov. Nusa Tenggara Barat,2114231
+2012,5300,Prov. Nusa Tenggara Timur,698566
+2012,6100,Prov. Kalimantan Barat,1300100
+2012,6200,Prov. Kalimantan Tengah,755507
+2012,6300,Prov. Kalimantan Selatan,2086221
+2012,6400,Prov. Kalimantan Timur,561959
+2012,7100,Prov. Sulawesi Utara,615062
+2012,7200,Prov. Sulawesi Tengah,1024316
+2012,7300,Prov. Sulawesi Selatan,5003011
+2012,7400,Prov. Sulawesi Tenggara,516291
+2012,7500,Prov. Gorontalo,245786
+2012,7600,Prov. Sulawesi Barat,412338
+2012,8100,Prov. Maluku,84271
+2012,8200,Prov. Maluku Utara,65686
+2012,9100,Prov. Papua Barat,30245
+2012,9400,Prov. Papua,138032
+2013,1100,Prov. Nanggroe Aceh Darussalam,1956940
+2013,1200,Prov. Sumatera Utara,3727249
+2013,1300,Prov. Sumatera Barat,2430384
+2013,1400,Prov. Riau,434151
+2013,1500,Prov. Jambi,664535
+2013,1600,Prov. Sumatera Selatan,3676723
+2013,1700,Prov. Bengkulu,622832
+2013,1800,Prov. Lampung,3222789
+2013,1900,Prov. Kepulauan Bangka Belitung,28384
+2013,2100,Prov. Kepulauan Riau,1370
+2013,3100,Prov. DKI Jakarta,10268
+2013,3200,Prov. Jawa Barat,12083162
+2013,3300,Prov. Jawa Tengah,10344816
+2013,3400,Prov. D I Yogyakarta,921824
+2013,3500,Prov. Jawa Timur,12049342
+2013,3600,Prov. Banten,2083608
+2013,5100,Prov. Bali,882115
+2013,5200,Prov. Nusa Tenggara Barat,2193698
+2013,5300,Prov. Nusa Tenggara Timur,729666
+2013,6100,Prov. Kalimantan Barat,1440902
+2013,6200,Prov. Kalimantan Tengah,811211
+2013,6300,Prov. Kalimantan Selatan,2031029
+2013,6400,Prov. Kalimantan Timur,563850
+2013,7100,Prov. Sulawesi Utara,638373
+2013,7200,Prov. Sulawesi Tengah,1031324
+2013,7300,Prov. Sulawesi Selatan,5035830
+2013,7400,Prov. Sulawesi Tenggara,561361
+2013,7500,Prov. Gorontalo,295913
+2013,7600,Prov. Sulawesi Barat,444203
+2013,8100,Prov. Maluku,101835
+2013,8200,Prov. Maluku Utara,72445
+2013,9100,Prov. Papua Barat,29572
+2013,9400,Prov. Papua,169790
